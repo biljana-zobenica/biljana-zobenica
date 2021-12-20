@@ -7,10 +7,13 @@
 ### About
 
 -  **Learning :** Data Science, Machine Learning <img src="https://avatars.githubusercontent.com/in/6672?s=41&u=a7a34b10582b8299dd85b607ab83067349450582&v=4">
--  **Languages :** Python, SQL :zap:
+-  **Languages :** Python, SQL :computer:
 -  **Hobbies :** Sports & Movies :clapper:
--  **Fact :** Learn by doing. Change by learning. Grow by changing. :green_apple:
--  **Organization :** SelfGrowth :seedling:
+-  **Fact :** 
+-  Learn by doing. 
+-  Change by learning. 
+-  Grow by changing. 
+-  **Organization :** SelfGrowth :green_apple:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
