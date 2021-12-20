@@ -10,7 +10,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biljana-zobenica&show_icons=true&locale=en&layout=compact" alt="biljana-zobenica" /></p>
-<br>
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biljana-zobenica&show_icons=true&locale=en" alt="biljana-zobenica" /></p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
