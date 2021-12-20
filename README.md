@@ -6,7 +6,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Data Science, Machine Learning :zap: | Open-Source :fire:	
+-  **Learning :** Data Science, Machine Learning <img https://avatars.githubusercontent.com/in/6672?s=41&u=a7a34b10582b8299dd85b607ab83067349450582&v=4>
 -  **Languages :** Python, SQL
 -  **Hobbies :** Sports & Movies :headphones:
 -  **Fact :** Learn by doing. Change by learning. Grow by changing. :heart: 
@@ -15,8 +15,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=biljana-zobenica&show_icons=true)
-
-<html style="height: 100%;"><head><meta name="viewport" content="width=device-width, minimum-scale=0.1"><title>github.gif (838×293)</title></head><body style="margin: 0px; background: #0e0e0e; height: 100%"><img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/matyo91/matyo91/main/assets/github.gif"></body><iframe id="adbe-cookies-checker" src="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/data/js/extn-utils.html" style="display: none;"></iframe></html>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
