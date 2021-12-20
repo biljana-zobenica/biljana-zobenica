@@ -6,7 +6,8 @@
 -  **Learning :** Data Science, Machine Learning :space_invader: 
 -  **Languages :** Python, SQL :computer:
 -  **Hobbies :** Sports & Movies :clapper:
--  **Fact :** Learn by doing. Change by learning. Grow by changing. 
+-  **Fact :** 
+  <span style="color:blue">.Learn by doing. Change by learning. Grow by changing. </span>
 -  **Organization :** SelfGrowth :green_apple:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
