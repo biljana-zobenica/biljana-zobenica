@@ -5,7 +5,7 @@
 
 -  **Learning :** Data Science, Machine Learning :space_invader: 
 -  **Languages :** Python, SQL :computer:
--  **Hobbies :** Sports & Movies :clapper:
+-  **Hobbies :** Sports & Creative Storytelling :clapper:
 -  **Organization :** SelfGrowth :green_apple:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
