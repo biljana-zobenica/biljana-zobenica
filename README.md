@@ -7,7 +7,7 @@
 -  **Languages :** Python, SQL :computer:
 -  **Hobbies :** Sports & Movies :clapper:
 -  **Fact :** 
-  <span style="color:blue">.Learn by doing. Change by learning. Grow by changing. </span>
+<span style="color:blue">.Learn by doing. Change by learning. Grow by changing. </span>
 -  **Organization :** SelfGrowth :green_apple:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
