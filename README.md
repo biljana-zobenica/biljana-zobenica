@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋, I'm Biljana Zobenica </h2>
-<h4 align="center">Data Enthusiast and Pythonista</h4>
+<h3 align="center">Data Enthusiast and Pythonista</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Biljana_Zobenica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biljana-data-enthusiast//)](https://www.linkedin.com/in/biljana-data-enthusiast/) [![Website Badge](https://img.shields.io/badge/Biljana_Zobenica-FA243C?style=flat-square&logo=Github&logoColor=white)](https://biljana-zobenica.github.io/)
 
