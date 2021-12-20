@@ -6,7 +6,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Data Science, Machine Learning <img https://avatars.githubusercontent.com/in/6672?s=41&u=a7a34b10582b8299dd85b607ab83067349450582&v=4>
+-  **Learning :** Data Science, Machine Learning <img src="https://avatars.githubusercontent.com/in/6672?s=41&u=a7a34b10582b8299dd85b607ab83067349450582&v=4">
 -  **Languages :** Python, SQL
 -  **Hobbies :** Sports & Movies :headphones:
 -  **Fact :** Learn by doing. Change by learning. Grow by changing. :heart: 
