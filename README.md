@@ -8,14 +8,12 @@
 -  **Hobbies :** Sports & Creative Storytelling :clapper:
 -  **Organization :** SelfGrowth :green_apple:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biljana-zobenica&show_icons=true&locale=en&layout=compact" alt="biljana-zobenica" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biljana-zobenica&show_icons=true&locale=en" alt="biljana-zobenica" /></p>
- 
- </div>
-
+<a href="https://github.com/biljana-zobenica/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biljana-zobenica" />
+</a>
+<a href="https://github.com/biljana-zobenica/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=biljana-zobenica&show_icons=true&locale=en" />
+</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 **LEARN by doing. CHANGE by learning. GROW by changing.**
