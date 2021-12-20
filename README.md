@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Biljana_Zobenica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biljana-data-enthusiast//)](https://www.linkedin.com/in/biljana-data-enthusiast/) [![Gmail Badge](https://img.shields.io/badge/-biljana.zobenica@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:biljana.zobenica@outlook.com)](mailto:biljana.zobenica@outlook.com)
-![](https://komarev.com/ghpvc/?username=biljana-zobenica&color=7957d5)
+** ![](https://komarev.com/ghpvc/?username=biljana-zobenica&color=7957d5)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
