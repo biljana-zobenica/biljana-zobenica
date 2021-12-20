@@ -7,13 +7,14 @@
 -  **Languages :** Python, SQL :computer:
 -  **Hobbies :** Sports & Creative Storytelling :clapper:
 -  **Organization :** SelfGrowth :green_apple:
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<a href="https://github.com/biljana-zobenica/github-readme-stats">
+<a>
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biljana-zobenica" />
 </a>
-<a href="https://github.com/biljana-zobenica/github-readme-stats">
+<a>
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=biljana-zobenica&show_icons=true&locale=en" />
 </a>
 
