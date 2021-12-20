@@ -3,12 +3,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Biljana_Zobenica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biljana-data-enthusiast//)](https://www.linkedin.com/in/biljana-data-enthusiast/) [![Website Badge](https://img.shields.io/badge/Biljana_Zobenica-FA243C?style=flat-square&logo=Github&logoColor=white)](https://biljana-zobenica.github.io/)
 
-🚀 **LEARN by doing. CHANGE by learning. GROW by changing.**
+🚀 *LEARN by doing. CHANGE by learning. GROW by changing.*
 
--  **Learning :** Data Science, Machine Learning :space_invader: 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-  **Learning :** Data Science, Machine Learning 📚
 -  **Languages :** Python, SQL :computer:
 -  **Hobbies :** Sports & Creative Storytelling :clapper:
--  **Organization :** SelfGrowth :green_apple:
+-  **Organization :** SelfGrowth 🌱
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
