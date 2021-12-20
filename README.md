@@ -10,9 +10,10 @@
 -  **Languages :** Python, SQL :computer:
 -  **Hobbies :** Sports & Movies :clapper:
 -  **Fact :** 
--  Learn by doing. 
--  Change by learning. 
--  Grow by changing. 
+            Learn by doing. 
+            Change by learning. 
+            Grow by changing. 
+            
 -  **Organization :** SelfGrowth :green_apple:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -22,4 +23,4 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**⭐️ From [Biljana Zobenica](https://biljana-zobenica.github.io/)
+**⭐️ Personal Website: [Biljana Zobenica](https://biljana-zobenica.github.io/)
