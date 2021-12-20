@@ -9,10 +9,9 @@
 -  **Organization :** SelfGrowth :green_apple:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p><span style="color:blue">Learn by doing. Change by learning. Grow by changing. </span></p>
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=biljana-zobenica&show_icons=true)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **⭐️ Personal Website: [Biljana Zobenica](https://biljana-zobenica.github.io/)
+<p><span style="color:blue">Learn by doing. Change by learning. Grow by changing. </span></p>
