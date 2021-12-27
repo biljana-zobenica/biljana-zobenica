@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--  **Learning :** Data Science, Machine Learning 📚
+-  **Learning :** Data Science 📚
 -  **Languages :** Python, SQL :computer:
 -  **Hobbies :** Sports & Creative Storytelling :clapper:
 -  **Organization :** SelfGrowth 🌱
